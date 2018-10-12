@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EZOpenSDK_V4.7.1.20171219_release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HIKVideoIntercomSDK/libs/EZOpenSDK_V4.7.1.20171219_release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

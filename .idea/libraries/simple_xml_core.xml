@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple-xml-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HIKVideoIntercomSDK/libs/simple-xml-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

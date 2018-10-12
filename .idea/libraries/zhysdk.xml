@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zhysdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HIKVideoIntercomSDK/libs/zhysdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

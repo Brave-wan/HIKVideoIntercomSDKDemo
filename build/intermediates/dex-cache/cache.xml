@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a0f4c5aa79fc90475aa8c56a68227326480f902">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/gson-2.7_ebe9b31487793deda69f765fabc6cf413b289ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6d64836075c88ab959263ea016bc8a6027403a96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_c87b2b191b717483fed038b600d8a42177d33cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/jmdns-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85835fbd617a571bba685078c2bd3e913507ff4">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/jmdns-3.4.1_575e7a52c6ab5fcd440ced99461375e6fe3ffc23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/EZOpenSDK_V4.7.1.20171219_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fc52b8e39f3c064ba55d2d1c321475a504ecc5b">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/EZOpenSDK_V4.7.1.20171219_release_a78c4453fb00723f28a33380d6609280213cbcfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0fd8c6b8227830432aedc3c617c04e95f5cb7a59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_d583c4a5fc558abc31abb7e7800e2984c2a2cf93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9960442e1a6145c7d0e685cbbcb66c99960ad3d2">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_cac390e35d3db9872380c4566c57e1aaf07e2154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/dom4j-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9405e6e2fe3ed15472cbd313da8ac7e2b78248c">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/dom4j-1.6.1_0a43188f5b1e6f8df38ca82a98013a84a000fea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/zxing_core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657431ffc6f0c763c22579b392e0bdfab26fc817">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/zxing_core_16a076088ab24a388b4f8cc7bbf0aa51cf32fe3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/46c969206be1572ecad4cbd16ddabfc0e013077f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_6c7b11e1f1cb4dd487f4d86fbdcb0dd3c254ed35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0176f9d439f547601380e203191d2ff57aca27d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_7b2bf548b64dd5b3573b8084c7d85688a269f999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/58a92abe6ef04cd4ccc99b69a22cdc8eeef9d2e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_72ee0f9eeb8f17dbaff81116e9310702cc9e18ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6935a31bdf05e7051d5881167cdb33aed3cd13d7">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5_aa6577d92d0a955fe4ec5c7cdd70d1515f77404e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d5b1a9222a933aef2839ad68f3fb8aab169cba75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_2a0e591028b9d8c8745a214ae8b5480e50985d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0c35600dc45967adc62ee451c719ea5c69b1f6d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_a1c9316edf6ab9247f1481fc181bb944769b15fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha9_24ebb321ca9758a270dbe472aa992142b7d344ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2b6f5db87d4b60eef3def603c42fb8a87b14d259/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_b85a3a6b54c8948a12360fad2f898bff842f98de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/HCNetSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ed5c1f07c97ba1a8645ebeb5de979d9d45c83df">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/HCNetSDK_b12d043ff5d94861e30f328fd2edac311bb8c9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e9d238f174aa2760ba8c5d7d7defd95b3fd23711/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_e9bbf08d0795407eb869524305a85d59e63fef94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/427fb102dfb358a12bfeb64174506f85859efd6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/classes_1d5c3ae15d9810937f64c6e26bdb5424a65c75f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/zhysdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f92037396cde9332276719ecfddadb31a95ba28f">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/zhysdk_99699b148630addbd08eaac85406af147eda9729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/simple-xml-core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b956f4dced7e799fabe877887e7aea7050aeef42">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/simple-xml-core_b299def81d81f64d70ac865eb37b1c213b81152c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/bundles/default/libs/jna.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42460e8d0f7b9b7deeaa2ffb43f8078c0c3dde07">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/jna_53eb27dc0a7719c8e86a230d2363ac8b4f090b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
+    </item>
+
+</items>

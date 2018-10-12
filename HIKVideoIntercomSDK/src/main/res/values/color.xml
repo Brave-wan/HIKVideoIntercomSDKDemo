@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主题色：红色 -->
+    <color name="common_red">#f74248</color>
+    <color name="common_red_dark">#dfa02c32</color>
+    <color name="login_text">#212121</color>
+
+    <!-- 主界面按钮文字颜色-->
+    <color name="main_btn_text">#767676</color>
+    <color name="main_text_color">#5d5d5d</color>
+    <color name="main_text_color_en">#aaaaaa</color>
+    <!-- 灰色 -->
+    <color name="gray">#ff6f6f6f</color>
+    <color name="gray_listitem_divider">#7c7182</color>
+    <color name="gray_setting_bg">#F5F4F9</color>
+    <color name="gray_setting_divider">#E1E1E1</color>
+    <color name="gray_input_frame_border">#ADADAD</color>
+    <color name="gray_input_frame_border_df">#DFDFDF</color>
+    <color name="gray_input_frame_bg">#ECEAEA</color>
+    <color name="common_gray">#e0e0e0</color>
+    <color name="common_gray_dark">#aaaaaa</color>
+    <color name="layout_gray">#eeeeee</color>
+    <drawable name="common_gray_line">#e0e0e0</drawable>
+
+    <!-- 黑色 -->
+    <color name="black">#ff000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="tabCheck">#FF664015</color>
+    <color name="tabUncheck">#73664015</color>
+    <color name="tabDisable">#40664015</color>
+    <color name="tabwediget_p">#469c6e</color>
+    <color name="main_bg">#f2f2f2</color>
+    <color name="main_green">#86c20a</color>
+    <color name="com_bg">#FEFEFE</color>
+    <color name="arcmenu_btn_tv">#E18832</color>
+
+    <drawable name="home_888888">#888888</drawable>
+    <drawable name="home_black">#ff000000</drawable>
+    <drawable name="home_4b9fff">#4b9fff</drawable>
+    <drawable name="home_368ff4">#368ff4</drawable>
+    <drawable name="common_list_press">#e2e6e9</drawable>
+    <drawable name="loading_bg">#4f4f4f4f</drawable>
+
+    <color name="common_list_title">#3c3c3c</color>
+    <color name="common_list_time">#aeaeae</color>
+
+    <drawable name="btn_del_n">#ffdd4400</drawable>
+    <drawable name="btn_del_s">#1fdd4400</drawable>
+    <drawable name="btn_can_n">#ff86c20a</drawable>
+    <drawable name="btn_can_s">#1f86c20a</drawable>
+
+    <color name="callin_spec">#d0d0d0</color>
+    <color name="splite_line_color">#e6e6e6</color>
+    <color name="splite_text_color">#ff333333</color>
+    <color name="window_unselected_bg">#ff474747</color>
+    <color name="window_tv_selected_stroke_color">#ff1a1a1a</color>
+    <color name="window_tv_bg">#ff3d3d3d</color>
+    <color name="window_frame_selected_color">#ffffcc00</color>
+    <color name="window_frame_swaped_color">#96cc29</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="skate_bright_color">#f14c57</color>
+    <color name="skate_dark_color">#ffbfbfbf</color>
+    <color name="bg_title_stroke_color">#b5282d</color>
+    <color name="fullscreen_skate_bright_color">#e61c1c</color>
+    <color name="fullscreen_skate_dark_color">#d6d6d6</color>
+    <color name="white_disable_color">#99ffffff</color>
+    <color name="list_bg_white">#fffffe</color>
+    <color name="window_tv_stroke_color">#ff292929</color>
+    <color name="window_tv_selected_bg">#ff292929</color>
+    <color name="window_selected_bg">#ff333333</color>
+    <color name="toolbar_view_bg">#F0F0F0</color>
+    <color name="toolbar_stroke_color">#E0E0E0</color>
+    <color name="toolbar_view_landscape_bg">#3c000000</color>
+    <color name="toolbar_stroke_landscape_color">#5e000000</color>
+    <color name="delete_dis_bg_color">#ff94c92c</color>
+    <color name="bg_title_color">#ca2c32</color>
+
+    <!-- 回放，底部可播放时间区域显示颜色 -->
+    <color name="playback_avilable_type1_area">#0059b2</color>
+    <color name="playback_avilable_type2_area">#997f00</color>
+    <color name="playback_avilable_type16_area">#00802a</color>
+    <color name="playback_avilable_type4_area">#7f0000</color>
+    <color name="text_color_808080">#808080</color>
+    <color name="text_color_404040">#404040</color>
+    <color name="text_color_343434">#343434</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_disable">#7f7f7f</color>
+    <color name="bg_white">#ffffff</color>
+    <color name="bg_common_color">#f5f5f5</color>
+
+    <!-- 回放颜色 -->
+    <color name="channel_time_text_nor">#686868</color>
+    <color name="top_timebar_divider_nor">#3b3b3b</color>
+    <color name="transparent">#00000000</color>
+    <color name="transpluent">#22000000</color>
+    <!-- 图像管理 -->
+    <color name="images_listview_date_info_layout_bg">#e0e5e5e5</color>
+    <color name="images_listview_date_text_color">#ff414141</color>
+    <color name="image_view_titlebar_text_color">#ff333333</color>
+    <color name="localplay_seekbar_background_color">#ff454749</color>
+    <color name="localplay_seekbar_progress_color">#ffca2c32</color>
+    <color name="localplay_play_time_text_color">#ff323232</color>
+    <color name="localplay_seekbar_layout_bg_color">#e0e5e5e5</color>
+
+    <!-- 下拉刷新，上拉加载 -->
+    <color name="ptrHeaderBackground">#ededed</color>
+    <color name="ptrHeaderTextColor">#888888</color>
+    <color name="dialog_btn_gray">#EfEfEf</color>
+    <color name="dialog_btn_dark_gray">#c0c0c0</color>
+
+    <!-- 视频资源列表 -->
+    <color name="list_menu_bg">#B5B5B5</color>
+
+    <!-- 访客扫码界面输入框的颜色值 -->
+    <color name="guest_code_edittext_color">#00A4EE</color>
+    <!-- 访客信息文字颜色 -->
+    <color name="guest_info_text_color">#5d5d5d</color>
+    <!-- 快速登记按钮 -->
+    <color name="guest_btn_bg_fast_reg">#505050</color>
+    <!-- 界面内容文字颜色 -->
+    <color name="main_content_text_color_99">#999999</color>
+    <color name="main_content_text_color_4d">#4d4d4d</color>
+    <color name="main_content_text_color_5d">#5d5d5d</color>
+    <color name="main_content_edt_hint_color_bb">#bbbbbb</color>
+
+    <!-- 手势密码相关颜色 -->
+    <color name="gesture_password_color_path">#00b8ee</color>
+    <color name="gesture_password_color_error">#f74347</color>
+
+    <!-- 事件详情界面divider颜色 -->
+    <color name="msg_detail_divider">#e1e3e6</color>
+
+    <!-- 萤石相关 -->
+    <color name="application_bg">#f0f0f3</color>
+    <color name="black_text">#333333</color>
+    <color name="gray_text">#adadad</color>
+    <!-- wifi一键配置 -->
+    <color name="auto_wifi_red">#fe4343</color>
+    <color name="auto_wifi_blue">#40a2ee</color>
+    <color name="auto_tip_text">#888888</color>
+    <color name="auto_blue_text">#2554bd</color>
+
+    <!-- 登陆相关 -->
+    <color name="login_submit_bt">#E0E0E0</color>
+    <color name="loading_bg">#4f4f4f4f</color>
+
+    <!-- 侧滑菜单相关 -->
+    <color name="menu_bg">#545252</color>
+    <color name="menu_bg_pressed">#7c7182</color>
+
+    <!--可视对讲相关-->
+    <color name="default_color_nodevice">#cccccc</color>
+    <color name="list_txt_name">#444444</color>
+    <color name="list_txt_realtive">#999999</color>
+    <color name="list_outdoor_name">#818181</color>
+
+    <!--消息相关-->
+    <color name="local_config_divider_color">#FFF9F9F9</color>
+    <color name="local_config_list_unselected_color">@android:color/white</color>
+    <color name="local_config_list_selected_color">#ffefefef</color>
+    <color name="local_config_button_unselected_color">@android:color/white</color>
+    <color name="local_config_button_selected_color">#ffefefef</color>
+    <color name="bg_conmmon">#f5f5f5</color>
+    <color name="alarm_read_gray">#cccccc</color>
+    <color name="alarm_txt_unread">#444444</color>
+    <color name="alarm_type_unread">#707070</color>
+    <color name="alarm_time_unread">#808080</color>
+
+    <!-- 密码等级的各个颜色 -->
+    <color name="pswd_level_default">#FFEEEEEE</color>
+    <color name="pswd_level_dangerous">#FFCD0400</color>
+    <color name="pswd_level_low">#FFF38F00</color>
+    <color name="pswd_level_mid">#FFF1E000</color>
+    <color name="pswd_level_high">#FF5DC800</color>
+    <color name="common_green">#FF15D189</color>
+    <color name="main_red_default">#dfCA2C32</color>
+    <color name="colorAccent">@color/main_red_default</color>
+    <color name="colorPrimary">#CA2C32</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+    <color name="divier_gray">#ff969ba4</color>
+    <color name="park_head_gray">#79818181</color>
+</resources>

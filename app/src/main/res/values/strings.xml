@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">"HIKVideoIntercomSDKDemo"</string>
+    <!--来电相关-->
+    <string name="callin_accept">接听</string>
+    <string name="callin_refuse">挂断</string>
+    <string name="callin_chg_phone">门口机正向您转接通话...</string>
+    <string name="callin_unlock">开锁</string>
+    <string name="live_add_scan">二维码</string>
+    <string name="live_code_error">错误的二维码</string>
+    <string name="input_verify_code_hint">请输入6位设备验证码</string>
+    <string name="add_verify_code_location">设备验证码贴于机身背面</string>
+    <string name="input_verify_code_title">请输入设备验证码</string>
+    <string name="yin_shi_smscode_empty">验证码不能为空</string>
+    <string name="live_add_vercode_hint">请输入6位验证码</string>
+    <string name="add_input_button">添加</string>
+    <string name="live_add_input_hint">请输入9位序列号</string>
+    <string name="live_add_input">添加室内机</string>
+    <string name="kLiftControlFailed">呼叫电梯失败</string>
+    <string name="kLiftControlSuccess">呼叫电梯成功</string>
+</resources>

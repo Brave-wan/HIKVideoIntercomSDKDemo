@@ -1,0 +1,50 @@
+<!-- 默认情况下，本布局文件只包含：左侧返回IamgeView和中间标题TextView。右侧菜单ImageView不显示，可以通过在HeadActivity提供的接口中使其可见变修改相应参数。中间标题区域也可以在代码中修改文字或者直接替换成自定义的布局视图 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_head_root"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/common_red"
+    android:gravity="center_vertical">
+
+
+    <ImageView
+        android:id="@+id/activity_head_back"
+
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:scaleType="centerInside"
+        android:src="@drawable/head_btn_back" />
+
+    <TextView
+        android:id="@+id/activity_head_title"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+    <!-- framelayout内容用于有些不需要head_title的地方，自定义标题视图放到这里面 -->
+
+    <FrameLayout
+        android:id="@+id/activity_head_title_container"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:visibility="gone"></FrameLayout>
+
+    <ImageView
+        android:id="@+id/activity_head_menu"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:scaleType="centerInside"
+        android:src="@drawable/image_head_menu"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_width">200dp</dimen>
+    <dimen name="normal_heigth">40dp</dimen>
+
+
+    <!--接听挂断按钮大小-->
+    <dimen name="callin_img_size">70dp</dimen>
+    <dimen name="callin_head_size">140dp</dimen>
+    <dimen name="callin_img_margin">60dp</dimen>
+    <dimen name="callin_head_margin">120dp</dimen>
+    <dimen name="callin_spec_margin">16dp</dimen>
+
+    <!-- surfaceview与框的间距 -->
+    <dimen name="surface_container_space">2px</dimen>
+    <dimen name="window_container_space">0px</dimen>
+    <dimen name="window_text_height">17dp</dimen>
+    <dimen name="common_textsize_small_10sp">10sp</dimen>
+    <dimen name="common_textsize_small_12sp">12sp</dimen>
+    <dimen name="common_textsize_small_14sp">14sp</dimen>
+    <dimen name="common_textsize_small_16sp">16sp</dimen>
+    <dimen name="common_textsize_small_18sp">18sp</dimen>
+    <dimen name="common_textsize_small_21sp">21sp</dimen>
+    <dimen name="land_control_bar_item_width">50dp</dimen>
+    <dimen name="land_control_bar_width">55dp</dimen>
+</resources>

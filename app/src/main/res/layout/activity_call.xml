@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/topline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/callin_spec"
+        ></View>
+
+    <FrameLayout
+        android:id="@+id/media_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <SurfaceView
+            android:id="@+id/callin_surfaceView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent" />
+
+        <ProgressBar
+            android:id="@+id/progressview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <ImageView
+            android:id="@+id/btn_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/image_video_play_btn"
+            android:visibility="invisible" />
+    </FrameLayout>
+
+
+
+
+    <FrameLayout
+        android:id="@+id/voice_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:gravity="center"
+        android:visibility="gone"
+        >
+
+        <ImageView
+            android:layout_width="@dimen/callin_head_size"
+            android:layout_height="@dimen/callin_head_size"
+            android:src="@mipmap/ic_callin_head"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"/>
+    </FrameLayout>
+
+
+
+    <View
+        android:id="@+id/bottomline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/callin_spec"></View>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2">
+
+        <Button
+            android:id="@+id/hangUp"
+            android:layout_width="@dimen/normal_width"
+            android:layout_height="@dimen/normal_heigth"
+            android:layout_centerHorizontal="true"
+            android:text="挂断"
+            android:layout_marginTop="10dp"
+            />
+    </RelativeLayout>
+
+
+
+</LinearLayout>
+

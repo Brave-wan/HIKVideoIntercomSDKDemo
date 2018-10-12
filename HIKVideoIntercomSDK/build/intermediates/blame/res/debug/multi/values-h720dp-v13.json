@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/jreey/文档/云视频对讲/海康平台sdk包/iVMS-8700_V2.9.2和iVMS-5000_V6.9平台SDK/Android/HIKVideoIntercomSDK/HIKVideoIntercomSDKDemo/HIKVideoIntercomSDK/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/6d64836075c88ab959263ea016bc8a6027403a96/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
